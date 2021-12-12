@@ -8,9 +8,9 @@
           <div class="col-lg-4 col-md-6 footer-contact">
             <h3>FARMER's PORTAL</h3>
             <p>
-              Mangalore<br>
-              Karnataka, India <br><br>
-              <strong>Phone:</strong> +91-9113651488<br>
+              Bhopal<br>
+              Madhya Pradesh, India <br><br>
+              <strong>Phone:</strong> +918964827402<br>
               <strong>Email:</strong> info@farmersportal.com<br>
             </p>
           </div>
@@ -41,7 +41,7 @@
           &copy; Copyright <strong><span>Farmer's Portal</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Developed By Ranjith and Praveen
+          Developed By AVSS private Ltd.
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
