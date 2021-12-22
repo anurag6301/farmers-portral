@@ -1,13 +1,13 @@
 # farmers-portal
 
-online portal for farmers to upload their sell
-and buyer can direcly contact to the farmer
+Online portal for Farmers to upload their sell
+and buyer can direcly contact to the Farmer
 to buy their stuff.
 
 
 # description
 
-i will add it later...
+The FARMER’S PORTAL web portal is created to help bring together all local vendors. We want to help make each stronger individually as a collective whole by providing simple lines of communication, logistics and support within the relationship of producers to buyers and producers to producers & essentially creating an online farmers market that offers consistent connection between all producers and buyers. The main motive of the project is to sell local and buy local.
 
 # installation
 
